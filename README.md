@@ -1,8 +1,8 @@
-# Automatic License Plate Recognition (ALPR) System
+# Traffic violation detection system
 
 ## Project Overview
 
-This project is an Automatic License Plate Recognition (ALPR) system using YOLOv8 for license plate detection and a React-based web application for visualization and user interaction. The primary goal is to detect and recognize license plates from vehicle images and display the results efficiently through a user-friendly interface.
+This project is an Traffic violation detection system using YOLOv8 for license plate detection and a React-based web application for visualization and user interaction. The primary goal is to detect and recognize license plates from vehicle images and display the results efficiently through a user-friendly interface.
 
 ### Project Structure
 
